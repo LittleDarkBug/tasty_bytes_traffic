@@ -1,4 +1,4 @@
-# Prédiction du Trafic de Recettes - Analyse et Modélisation
+# Prédiction du Trafic de Recettes
 
 ## Vue d'ensemble du projet
 
